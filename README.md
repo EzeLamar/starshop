@@ -5,5 +5,5 @@ Symfony 7 example app created following the next course:
 
 # Fix PHP Codestyle
 ```shell
-composer require cs-fixer-shim
+ ./vendor/php-cs-fixer/shim/php-cs-fixer fix
 ```
